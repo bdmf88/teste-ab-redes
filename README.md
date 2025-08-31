@@ -81,4 +81,4 @@ Desempenho agregado por Plataforma e Criativo:
 
 # Conclusão
 
-Como conclusão tempos a recomendação de alocação total de verba para a opção B durante o período restante da campanha uma vez que a taxa de conversão do criativo B apresentou uma taxa de 11,6% superior a opção A.
+Como conclusão temos a recomendação de alocação total de verba para a opção B durante o período restante da campanha uma vez que a taxa de conversão do criativo B apresentou uma taxa de 11,6% superior a opção A.
