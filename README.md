@@ -36,7 +36,7 @@
 
 # CARREGAMENTO E VERIFICAÇÃO DOS DADOS
 
-- Por ter sido um dataset pequeno gerado por IA a mérito de experimento, ele foi imputado diretamente no script em python.
+- Como o dataset era pequeno e foi criado por IA para fins de experimento, os dados foram inseridos diretamente no script Python.
 
 # ANÁLISE EXPLORATÓRIA
 
