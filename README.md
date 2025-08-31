@@ -77,7 +77,7 @@ Desempenho agregado por Plataforma e Criativo:
 
 - Estatística T (-4.3375): Mede a força da evidência e mede o quão forte é a diferença entre as médias dos dois grupos, considerando a variação nos dados.
     - Quanto maior o valor absoluto (mais longe do zero), mais forte é a evidência da diferença entre os dois criativos analisados.
-    - O sinal de negativo (-) indica que a média
+    - O sinal de negativo (-) indica que a média do Criativo A é menor que a média do Criativo B em termos de performance (neste caso, CTR ou CVR). Se o valor fosse positivo, significaria o oposto.
 
 # Conclusão
 
