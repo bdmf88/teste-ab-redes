@@ -65,7 +65,7 @@ Desempenho agregado por Plataforma e Criativo:
 | TikTok Ads | A | 2.96 | 5.04 |
 | TikTok Ads | B | 3.44 | 5.52 |
 
-<img src="images/download.png" alt="Churn por gasto mensal" width="440">
+<img src="images/download.png" alt="Churn por gasto mensal" width="600">
 
  
 
